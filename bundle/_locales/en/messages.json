@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Show YouTube Video Upload Date",
+        "description": "Extension name in manifest"
+    },
+    "description": {
+        "message": "Reorganise the YouTube video page UI to reveal the view count and upload date.",
+        "description": "Extension description in manifest"
+    }
+}

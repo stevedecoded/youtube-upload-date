@@ -1,0 +1,8 @@
+{
+    "name": {
+        "message": "Pokaż datę przesłania filmu do YouTube"
+    },
+    "description": {
+        "message": "Zreorganizuj interfejs użytkownika strony wideo YouTube, aby wyświetlić liczbę wyświetleń i datę przesłania."
+    }
+}

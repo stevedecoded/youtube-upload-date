@@ -1,0 +1,8 @@
+{
+    "name": {
+        "message": "Upload-Datum des YouTube-Videos anzeigen"
+    },
+    "description": {
+        "message": "Organisieren Sie die Benutzeroberfläche der YouTube-Videoseite neu, um die Anzahl der Aufrufe und das Upload-Datum anzuzeigen."
+    }
+}

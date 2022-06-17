@@ -1,0 +1,8 @@
+{
+    "name": {
+        "message": "Mostrar la fecha de carga del video de YouTube"
+    },
+    "description": {
+        "message": "Reorganice la interfaz de usuario de la página de videos de YouTube para revelar el recuento de vistas y la fecha de carga."
+    }
+}
