@@ -1,4 +1,6 @@
-## Show YouTube Video Upload Date extension for Google Chrome, Chromium and Chromium-based Microsoft Edge
+## Show YouTube Video Upload Date extension
+
+For Google Chrome, Chromium and Chromium-based Microsoft Edge
 
 ### Chrome Web Store page
 
