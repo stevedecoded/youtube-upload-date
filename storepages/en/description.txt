@@ -1,0 +1,3 @@
+The upload date of YouTube videos is sometimes hidden, this helps show it - particularly on YouTube Premium accounts with extra buttons in the UI like Download and Clip.
+
+When submitting support requests please provide YouTube URL, OS (Windows/Mac/etc) and screen resolution http://whatismyscreenresolution.net/

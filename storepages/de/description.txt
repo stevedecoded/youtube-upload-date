@@ -1,0 +1,3 @@
+Das Upload-Datum von YouTube-Videos wird manchmal ausgeblendet, dies hilft, es anzuzeigen – insbesondere bei YouTube Premium-Konten mit zusätzlichen Schaltflächen in der Benutzeroberfläche wie Download und Clip.
+
+Geben Sie beim Einreichen von Supportanfragen bitte die YouTube-URL, das Betriebssystem (Windows/Mac/usw.) und die Bildschirmauflösung http://whatismyscreenresolution.net/ an.

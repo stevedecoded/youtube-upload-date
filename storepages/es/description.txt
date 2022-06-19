@@ -1,0 +1,3 @@
+La fecha de carga de los videos de YouTube a veces está oculta, esto ayuda a mostrarla, especialmente en las cuentas de YouTube Premium con botones adicionales en la interfaz de usuario, como Descargar y Recortar.
+
+Al enviar solicitudes de soporte, proporcione la URL de YouTube, el sistema operativo (Windows/Mac/etc.) y la resolución de pantalla http://whatismyscreensolution.net/

@@ -1,0 +1,3 @@
+Data przesłania filmów na YouTube jest czasami ukryta, co pomaga to pokazać – szczególnie na kontach YouTube Premium z dodatkowymi przyciskami w interfejsie użytkownika, takimi jak Pobierz i Klip.
+
+Przesyłając prośby o pomoc, podaj adres URL YouTube, system operacyjny (Windows/Mac/etc) i rozdzielczość ekranu http://whatismyscreenresolution.net/
