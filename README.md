@@ -6,6 +6,10 @@ For Google Chrome, Chromium and Chromium-based Microsoft Edge
 
 https://chrome.google.com/webstore/detail/show-youtube-video-upload/amdebbajoolgbbgdhdnkhmgkkdlbkdgi
 
+### Ported to Firefox Add-ons by [trevorraney](https://github.com/trevorraney)
+
+https://addons.mozilla.org/en-US/firefox/addon/show-youtube-upload-date/
+
 ## To upload a new plugin version to the Chrome Web Store
 
 From the root of the project folder, in the terminal..
